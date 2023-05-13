@@ -40,7 +40,7 @@ def longest_words(file):
 
 
 result = longest_words('article.txt')
-print('Слова с наибольшей длиной:', result)
+print('Слово с наибольшей длиной:', result)
 input('Нажмити клавишу для некст задания')
 
 #3
